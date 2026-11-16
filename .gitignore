@@ -1,2 +1,13 @@
+### rust ###
 /target/
 **/*.rs.bk
+
+### workspace ###
+.codex
+.crush
+.cursor
+.editorconfig
+.idea
+.ignore
+.vscode
+.zed
